@@ -1,0 +1,11 @@
+.input__quickOrder {
+  background-color: #e63027;
+  padding: 10px;
+  border: 2px solid #e63027;
+  border-radius: 5px;
+  color: white;
+}
+
+.input__quickOrder:hover {
+  background-color: #ab1114;
+}
